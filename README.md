@@ -69,7 +69,7 @@ The `scrape.py` script collects tweet ids. If you know a tweet's id number, you 
   - `username.csv` (csv version of the smaller master file)
 
 ## Warning
-| Be careful running the selenium scraping script repeatedly on Twitter might temporarily ban your account ! |
+| Be careful while running the selenium scraping script repeatedly on Twitter might temporarily ban your account ! |
 | --- |
 
 ## Author
