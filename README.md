@@ -9,7 +9,7 @@ The `scrape.py` script collects tweet ids. If you know a tweet's id number, you 
 
 ## Pre- Requisites
 
-- basic knowledge on how to use a terminal/cmd
+- Basic knowledge on how to use a terminal/cmd
 - **WEBDRIVERS**
     - If using Chrome, install ChromeDriver's latest version on the Chrome.
     - If using Safari, version 10+ with 'Allow Remote Automation' option enabled in Safari's Develop menu to control Safari via WebDriver. 
@@ -72,9 +72,6 @@ The `scrape.py` script collects tweet ids. If you know a tweet's id number, you 
 | Be careful running the selenium scraping script repeatedly on Twitter might temporarily ban your account ! |
 | --- |
 
-## Authors
-
-* **Akash Sharma** - ![Twitter](https://play.google.com/store/apps/details?id=com.twitter.android&hl=en_IN) - [AkashTheGreat](http://akashthegreat1.netlify.com/)
 
 ## License
 
