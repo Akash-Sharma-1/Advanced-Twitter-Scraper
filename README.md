@@ -1,6 +1,6 @@
 # Twitter Scraper (Bypassing the Twitter's Official API Limit)
 
-The Twitter API restricts from getting all of a user's tweets (assuming they have more than 3200) by placing an API retrieval limit over the tweets (as well as the information) which is quite understandable given that they have to manage unprecedented amounts of scraping activities over their platform. 
+The Twitter API restricts the developer from getting all of a user's tweets (assuming they have more than 3200) by placing an API retrieval limit over the tweets (as well as the information) which is quite understandable given that they have to manage unprecedented amounts of scraping activities over their platform. 
 My approach in the implementation of the Scraper and its ideation is to develop a  workaround to go over this problem using Python, Selenium, and Tweepy. However, to admit it might be slower than any other scrapper which directly uses the Twitter API but it is a tradeoff between speed and size. You can go for this approach if you are looking for scraping a big data source from twitter then this will definitely be helpful. 
 
 Essentially, we will use Selenium to open up a browser and automatically visit Twitter's search page, searching for a single user's tweets on a single day. If we want all tweets from 2015, we will check all 365 days / pages. This would be a nightmare to do manually, so the `scrape.py` script does it all for you - all you have to do is input a date range and a twitter user handle, and wait for it to finish.
