@@ -74,7 +74,7 @@ The `scrape.py` script collects tweet ids. If you know a tweet's id number, you 
 
 ## Author
 
-* **Akash Sharma** <img src="https://image.flaticon.com/icons/png/512/1216/1216686.png" height="10" width="10"> <img src="https://image.flaticon.com/icons/svg/733/733579.svg" height="20" width="20"> - [AkashTheGreat](http://akashthegreat1.netlify.com/)
+* **Akash Sharma** <img src="https://image.flaticon.com/icons/png/512/1216/1216686.png" height="10" width="10"> <img src="https://image.flaticon.com/icons/svg/733/733579.svg" height="20" width="20"> - [akashsharma.live](https://www.akashsharma.live/)
 
 ## License
 
